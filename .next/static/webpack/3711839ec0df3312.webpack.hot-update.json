@@ -1,1 +1,3 @@
-{"c":["app/page","webpack"],"r":[],"m":["(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22D%3A%5C%5Ccoding%5C%5Cweb%5C%5Cjic%5C%5Cnode_modules%5C%5Cnext%5C%5Cdist%5C%5Cclient%5C%5Capp-dir%5C%5Clink.js%22%2C%22ids%22%3A%5B%5D%7D&modules=%7B%22request%22%3A%22D%3A%5C%5Ccoding%5C%5Cweb%5C%5Cjic%5C%5Cnode_modules%5C%5Cnext%5C%5Cdist%5C%5Cclient%5C%5Cimage-component.js%22%2C%22ids%22%3A%5B%5D%7D&modules=%7B%22request%22%3A%22D%3A%5C%5Ccoding%5C%5Cweb%5C%5Cjic%5C%5Csrc%5C%5Capp%5C%5Cpage.module.css%22%2C%22ids%22%3A%5B%5D%7D&server=false!"]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:eca0d54217f3d4610d138fe61b71087efa9fefb0b5d6fadb4e5acd08fccc823e
+size 624

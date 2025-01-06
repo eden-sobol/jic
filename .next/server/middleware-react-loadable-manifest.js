@@ -1,1 +1,3 @@
-self.__REACT_LOADABLE_MANIFEST="{\"..\\\\node_modules\\\\next\\\\dist\\\\client\\\\components\\\\react-dev-overlay\\\\internal\\\\helpers\\\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts\":{\"id\":\"..\\\\node_modules\\\\next\\\\dist\\\\client\\\\components\\\\react-dev-overlay\\\\internal\\\\helpers\\\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_next_dist_client_dev_noop-turbopack-hmr_js.js\"]}}"
+version https://git-lfs.github.com/spec/v1
+oid sha256:e882cf4a6a10097c8c03115522e148e520349188c97d97572363ec7e26bf9b41
+size 559
